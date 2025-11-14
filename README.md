@@ -1,6 +1,6 @@
 # MoodTap - Personal Mood Tracker Website
 
-🌐 **Official Website:** https://yourusername.github.io/moodtap-website
+🌐 **Official Website:** https://ssedya126.github.io/moodtap-website/
 
 ## About MoodTap
 
